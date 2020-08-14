@@ -5,7 +5,7 @@
 <h2>Wireframes</h2>
   <ul>
     
-    <li><a href="https://github.com/bmconstant16/liftoff-assignments/blob/master/P3-Project_Planning/wireframes/create-new-destination.png"></a></li>
+    <li>![Home Page](home-page.png)</li>
     <li><p>This is the user welcome screen</p><img width="600" alt="welcome user" src="assets/img/welcome-user.png"></li>
     <li> <p>This is the view destinations page</p><img width="600" alt="view destinations" src="assets/img/view-destination.png"></li>
     <li><p>This is the create new detination page</p><img width="600" alt="create new destination" src="assets/img/create-new-destination.png"></li>
